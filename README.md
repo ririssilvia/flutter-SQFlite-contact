@@ -1,16 +1,19 @@
 # sqlite_crud
 
 A new Flutter project.
+# Aplikasi Kontak CRUD Mengunakan Sqlite
 
-## Getting Started
+## Hasil Dari Praktikum
+## Tampilan Awal Ketika Habis Di running
+![plot](images/1.png)
+## Tampilan Halaman jika ditambah data
+![plot](images/2.png)
+## Tampilan Halaman Home setelah ditambah data
+![plot](images/3.png)
+## Tampilan Halaman update data 
+![plot](images/4.png)
+![plot](images/5.png)
+## Tampilan Halaman delate data 
+![plot](images/6.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
